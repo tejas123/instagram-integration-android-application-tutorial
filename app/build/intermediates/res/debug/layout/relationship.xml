@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/lvRelationShip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>
+<!-- From: file:/Users/theappguruz/Desktop/Android%20Blog%20Work/Android%20-%20Instagram%20Integration/Android%20Studio/instagram-integration-android-application-tutorial-master/app/src/main/res/layout/relationship.xml -->
